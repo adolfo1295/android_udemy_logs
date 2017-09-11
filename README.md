@@ -1,1 +1,3 @@
-# android_udemy_logs
+# Android proyect - intro
+
+Proyecto de introduccion especidifcaod en el uso de los logs
